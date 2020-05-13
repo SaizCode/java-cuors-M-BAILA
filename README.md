@@ -1,2 +1,2 @@
-# java-cuors-M-BAILA
-cours de Java avec monsier BAILA Wane
+# java-cours-M-BAILA
+cours de Java avec monsieur BAILA Wane
